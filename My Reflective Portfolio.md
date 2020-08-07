@@ -16,3 +16,20 @@ I faced the challenge at first of understanding that a system can have various m
 Next time I would increase my class engagement and listen fully for the tutorials. I would also complete all pre work and hae a more organised approach to learning and online classes. Furthermore, I would look through the slides after class or during and try to make notes to help me understand and memorise key concepts of human centred complex systems. 
 ### What theory proved to be useful and why? What have I learnt from this?
 The classs slides posted on canvas and all material found on canvas was very useful for my learning as an online student. It is very organised and easy to find things that you need. 
+
+## Week 2 
+
+### What have I learnt this week?
+Upon reflection, it was observed that
+### What do I 'now know' that I did not before?
+ In reflecting upon the tutorial exercise, it was useful to observe
+### What insights have I gained?
+In reflecting upon the tutorial exercise, it was useful to observe
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+To reflect upon the learning process this semester, it can be argued that several factors influenced my strengths and weawknesses. 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Upon reflection, the challenge of was observed.
+### What would I do better next time and with what anticipated results?
+upon reflection of my learning it is clear to observe 
+### What theory proved to be useful and why? What have I learnt from this?
+Upon reflection, it was observed that
