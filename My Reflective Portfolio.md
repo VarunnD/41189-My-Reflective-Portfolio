@@ -15,21 +15,24 @@ I faced the challenge at first of understanding that a system can have various m
 ### What would I do better next time and with what anticipated results?
 Next time I would increase my class engagement and listen fully for the tutorials. I would also complete all pre work and hae a more organised approach to learning and online classes. Furthermore, I would look through the slides after class or during and try to make notes to help me understand and memorise key concepts of human centred complex systems. 
 ### What theory proved to be useful and why? What have I learnt from this?
-The classs slides posted on canvas and all material found on canvas was very useful for my learning as an online student. It is very organised and easy to find things that you need. 
+The class slides posted on canvas and all material found on canvas was very useful for my learning as an online student. It is very organised and easy to find things that you need. 
 
 ## Week 2 
 
 ### What have I learnt this week?
-Upon reflection, it was observed that
+Upon reflection, it was observed that through the module 2 slides available on UTS canvas were very helpful towards my learning and overall understanding of models. Here are some of the main things I learnt : 
+* A model is a substitute of a real system 
+* Modelling effectively begins from understanding and observing the real system itself. 
+* The iceberg diagram of how to model. the iceberg diagram is a visual demonstration that helped me understand the concept of modelling and its main steps in order. Events, patterns, trends, underlying structures and mental models. By utilising this visual diagram it allows me to gain knowledge of how to achieve a systematic approach when modelling. 
 ### What do I 'now know' that I did not before?
- In reflecting upon the tutorial exercise, it was useful to observe
+In reflecting upon the tutorial exercise, it was useful to observe that during week 1 my perception and understanding of models was completely different to my understanding in week 2. In week 1 I thought models were just a designed prototype of an existing object, however, after learning and listening during the class in week 2 i understood that models are much more complex thn that and have many different types.  
 ### What insights have I gained?
-In reflecting upon the tutorial exercise, it was useful to observe
+In reflecting upon the tutorial exercise, it was useful to observe the complex systems and wicked problems in the world today and how there is not 1 solution, however the issues can be tackled by several solutions combined. problems such as droughts, economy, jobs, biodiversity etc. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-To reflect upon the learning process this semester, it can be argued that several factors influenced my strengths and weawknesses. 
+To reflect upon the learning process this semester, it can be argued that several factors influenced my strengths and weaknesses. My strength this week was understanding the model thinking concept quickly through the slides, however my weakness that I observed was understanding the wisdom hierarchy. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-Upon reflection, the challenge of was observed.
+Upon reflection, the challenge of was observed balancing uni study load and my work load. I work casual around 38 hours a week so this is a major challenge for me to keep up to date with the weekly tutorials and gaining the most amount of learning with the time I have. 
 ### What would I do better next time and with what anticipated results?
-upon reflection of my learning it is clear to observe 
+upon reflection of my learning it is clear to observe that I need to spend more time learning and analysing the work slides better. to gain better understanding I should write notes every tutorial to help me remember the small concepts discussed in class. 
 ### What theory proved to be useful and why? What have I learnt from this?
-Upon reflection, it was observed that
+Upon reflection, it was observed that the model thinking concept and what models are. That models can be complex and also simple. modelling has many interpretations and has several structures to them. 
