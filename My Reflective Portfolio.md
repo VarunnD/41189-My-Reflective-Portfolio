@@ -42,15 +42,24 @@ Upon reflection, it was observed that the model thinking concept and what models
 ### What have I learnt this week?
 Upon refletion, I have learnt several aspects to the way humans behave and how it can be characterised into 3 main components. First being the rational modelling types, second being the behavioural models and the third modelling type is the rule based modelling. These modelling types helped me to understand the complexity of human decision making and the factors that influence decisions. 
 ### What do I 'now know' that I did not before?
-I now know the three types of modelling for the ways humans behave. 
+To reflect upon the learning process this semester, it can be argued that I now know the three types of modelling for the ways humans behave, the types of decsion making of humans and what influences those decisons. Moreover, I now fully understand the complexity of human decisions and how they can be spontaneous in nature. I also learnt how people solve problems in groups and the social chalenges that come along with it. 
 ### What insights have I gained?
-
+Upon reflection, the insights I have gained through this weeks tutorial would be how innovation arises from 4 branches of problem solving which include:
+* Perspective 
+* Heuristics
+* Team diversity 
+* Recombination
+All these elements can help tackle problem solving challanges and innovation. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-. 
+To reflect upon the learning process this semester, it can be argued that my strengths include understanding the way humans behave and their decision making processes. However, it can be argued that complex adaptive systems is a challange for me to understand. There are 3 types of models: System dynamic, Agent based and Network models. I have trouble differntiating between these models. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+To reflect upon the learning process this semester, it can be argued that complex adaptive systems is a challange for me to understand. There are 3 types of models: System dynamic, Agent based and Network models. I have trouble differntiating between these models.
 ### What would I do better next time and with what anticipated results?
-
+Upon reflection, it is observed that spending more time on learning complex adaptive systems and doing all the class work, following tutorial slides would help be to better understand the systems. To help my overall success in this subject I should spend more time making notes off the slides presented in each weeks tutorials and asking questions if needed in class.
 ### What theory proved to be useful and why? What have I learnt from this?
-
+The shapely theory: Upon reflection, the shapely theory proved to be useful for identifying the conditions of:
+* Efficiency
+* Fairness/Symmetry
+* Additivity 
+* Zero property
 
