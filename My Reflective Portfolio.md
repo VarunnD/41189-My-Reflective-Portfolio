@@ -36,3 +36,21 @@ Upon reflection, the challenge of was observed balancing uni study load and my w
 upon reflection of my learning it is clear to observe that I need to spend more time learning and analysing the work slides better. to gain better understanding I should write notes every tutorial to help me remember the small concepts discussed in class. 
 ### What theory proved to be useful and why? What have I learnt from this?
 Upon reflection, it was observed that the model thinking concept and what models are. That models can be complex and also simple. modelling has many interpretations and has several structures to them. 
+
+## Week 3
+
+### What have I learnt this week?
+Upon refletion, I have learnt several aspects to the way humans behave and how it can be characterised into 3 main components. First being the rational modelling types, second being the behavioural models and the third modelling type is the rule based modelling. These modelling types helped me to understand the complexity of human decision making and the factors that influence decisions. 
+### What do I 'now know' that I did not before?
+I now know the three types of modelling for the ways humans behave. 
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+. 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+
