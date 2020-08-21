@@ -66,11 +66,18 @@ The shapely theory: Upon reflection, the shapely theory proved to be useful for 
 ## Week 4 
 
 ### What have I learnt this week?
-
+To reflect upon the learning process his week, it is evident that I have gained valuable knowledge about system dynamics and the three main resistance policies: Feedbacks, Time delays and Nonlinearities. I learnt that systems are interdependant and have many forms of positive and negative feedback. 
 ### What do I 'now know' that I did not before?
-
+Upone reflection, it is evident that I now know the way feedback works in system dynamics. I have also gained knowledge about the key componants in network modelling. Furthermore, the way system dynamics work and how each model provides pros and cons to systems has proved to give insights about how different types of networking are important.
 ### What insights have I gained?
-
+Upon reflection the network models structure ad its measures of structure is a key insight that I have gained this week. I understood and learnt that the measures of structure in a network are a direct result from the combination of these 7 components:
+* Size 
+* Density
+* Diameter 
+* Shortest path 
+* Subgraphs
+* Components
+* Islands
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
