@@ -31,7 +31,7 @@ In reflecting upon the tutorial exercise, it was useful to observe the complex s
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 To reflect upon the learning process this semester, it can be argued that several factors influenced my strengths and weaknesses. My strength this week was understanding the model thinking concept quickly through the slides, however my weakness that I observed was understanding the wisdom hierarchy. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-Upon reflection, the challenge of was observed balancing uni study load and my work load. I work casual around 38 hours a week so this is a major challenge for me to keep up to date with the weekly tutorials and gaining the most amount of learning with the time I have. 
+Upon reflection, the challenge of was observed balancing university study load and my work load. I work casual around 38 hours a week so this is a major challenge for me to keep up to date with the weekly tutorials and gaining the most amount of learning with the time I have. 
 ### What would I do better next time and with what anticipated results?
 upon reflection of my learning it is clear to observe that I need to spend more time learning and analysing the work slides better. to gain better understanding I should write notes every tutorial to help me remember the small concepts discussed in class. 
 ### What theory proved to be useful and why? What have I learnt from this?
@@ -79,11 +79,10 @@ Upon reflection the network models structure ad its measures of structure is a k
 * Components
 * Islands
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+Upon reflection, week 4 proved to be a challenging week for understanding new terminology about complex systems. Upon reflection, my strengths would be understanding system dynamics completely and being able to apply them to real life scenarios. My key weakness in terms of learning would be class engagement, as I work around 40 hours per week it is hard to keep up with tutorial and lecture recordings 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon reflection of week 4, thekey challenge I have encountered in terms of learning would be class engagement, as I work around 40 hours per week it is hard to keep up with tutorial and lecture recordings. Moreover, going thorugh the module slides everyweek and always asking questions in class to boost my learning capability.
 ### What would I do better next time and with what anticipated results?
-
+Upon reflection of this weeks tutorial, I would suggest creating a timetable or schedule to go through module slides and lecture recordings every week to ensure I do not miss out on valuable class content. 
 ### What theory proved to be useful and why? What have I learnt from this?
-
-
+Upon reflection of this weeks tutorial,the theory or concept of system dynamic models allowed me to gain knowledge of how to use tools to analyse dynamic systems with interdependencies that include feedbacks and delays. 
