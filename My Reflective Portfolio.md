@@ -90,19 +90,19 @@ Upon reflection of this weeks tutorial,the theory or concept of system dynamic m
 ## Week 5
 
 ### What have I learnt this week?
-
+Upon reflection of the week 5 recorded tutorial, an abundance of learning and familiarisation with new cocepts and model thinking has been achieved. Furthermore, the week 5 tutorial is mainly based main ideas of aggregration and sttatistics. I gained valuable knowledge around the concept of distributions and aggregration. 
 ### What do I 'now know' that I did not before?
-
+Reflecting upon week 5s tutorial and zoom recording, it is evidient that I have understood complex systems thorugh a broader perspective opening my mind to the new ideas and concepts of human centred systems. Upon reflection from class discussion, I now know about self organised criticality and its importance 
 ### What insights have I gained?
-
+Upon reflection, it is clear to visualise the key insights of human centred coplex systems throughout the tutorial
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+Throughout reflecting weekly upon these GitHub entries, I have noticed an increase in memory recall for certain topics discussed in previous classes. The strength I have gained would be being able to remember concepts that were taught and discussed weeks ago. However, after reflecting upon my attendance and weekly engagement in online activities I have noticed a decrease in knowledge gained weekly as per usual. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon reflection, many challenges were faced for the assignment 1 on GitHub due to the fact my team was only just formed around the early week 5 stages. Creating groups through online messages and waiting for replies canbecome a challenge in the online environment. However, my group replied quickly were in the same mindset as me. I messaged Evan on microsoft teams and talked to Benjamin and Christopher to form a groupchat on facebook. This groupchat, we share ideas and concepts to help us tackle any challanges faced for future assignment tasks.   
 ### What would I do better next time and with what anticipated results?
- 
+Reflecting upon challenges faced and observed, it is clear to suggest effective communication methods between student and peers through the online environment. I would suggest being more open to creating groupchats and sending messages confidently to ensure group participation and interest.  
 ### What theory proved to be useful and why? What have I learnt from this?
-
+Reflecting upon all theories learnt the during the 5 weeks, i gained interest in the aggregration of behaviours. This served me valuable knowledge of the outcome of concepts and the influence changes in behaviour have towards the outcome. This allowed me to gain insight on adaptable environment systems that predict the changes in behaviour of agents.
 ## Week 6
 
 ### What have I learnt this week?
@@ -130,7 +130,7 @@ Upon reflection of this weeks tutorial,the theory or concept of system dynamic m
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon Reflection, my team handles claims 
 ### What would I do better next time and with what anticipated results?
  
 ### What theory proved to be useful and why? What have I learnt from this?
