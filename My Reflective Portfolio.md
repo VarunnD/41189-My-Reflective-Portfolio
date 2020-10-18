@@ -106,9 +106,17 @@ Reflecting upon all theories learnt the during the 5 weeks, i gained interest in
 ## Week 6
 
 ### What have I learnt this week?
+Upon reflection of week 6, it is evident that throughout the week I have gained knowledge over these main ideas and concepts:
+
+* Concavity
+* Convexity
+* Exponential groth model
+* The basic growth model
+* Markov process
+* The Markov medel
 
 ### What do I 'now know' that I did not before?
-
+Upon reflection of week 6 online recordings and modules posted on canvas, I have gained valuable insight in the application of real life concepts in modelling frameworks. Furthermore, the 
 ### What insights have I gained?
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
