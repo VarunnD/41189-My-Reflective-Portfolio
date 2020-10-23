@@ -180,14 +180,13 @@ With anticipated results to do better next time it is crucial to have effective 
 This week had no new content, however, upon reflecting from other weeks and week 9 I have become more confident with my skills when utilising jupyter notebooks and the github repositiories. I have learnt an amatuer understanding of the main coponents needed to submit/ make commits in the file and the reason the assignment is based on a github file. 
 
 ### What insights have I gained?
-To reflect upon the learning process this semester, I have gained various 
+To reflect upon the learning process this semester, I have gained various insights about the assignment in particular creating the rich picture for the pre submission. Creating the rich picture for the assignment took place in week 8 however, the skills carried over for this assignment. I have gained knowledge of how to paste photos and screenshots into the master file. Thus giving me another insight into the new world of github.
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-1
+Upon reflection of the learning this week, my percieved strengths would be the effective communication needed for the assignment. The communication and collaboration took place mostly on facebook messenger wehre the team members would ask questions and set dates that everyone was free to work on the assignment. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon reflecting from this semester I have encountered various challenges in terms of GitHub and many model thinking. The main challenge that would stand out throughout this semester is online engagement with the tutorials and presentations. This left me behind in all class work which was tough to manage during submission dates. 
 ### What would I do better next time and with what anticipated results?
- To reflect upon the learning process this semester, 
-### What theory proved to be useful and why? What have I learnt from this?
+ To reflect upon the learning process this semester, the main things I would improve on would include the pre existing code in the report to be left unchanged thus allowing the team to not have to revert the file to the last commit. 
 
 ## Week 11
 
