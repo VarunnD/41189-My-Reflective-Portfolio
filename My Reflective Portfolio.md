@@ -164,7 +164,6 @@ Reflecting from all the models presented thorughout the week 8 lecture notes, it
 
 ### What have I learnt this week?
 Through accurate reflection of content through this week, I have learnt the following
-### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
@@ -174,13 +173,11 @@ To reflect upon the learning process this semester,
 To reflect upon the learning process this semester, 
 ### What would I do better next time and with what anticipated results?
  
-### What theory proved to be useful and why? What have I learnt from this?
-To reflect upon the learning process this semester, 
+
 ## Week 10
 
 ### What have I learnt this week?
 Through accurate reflection of content through this week, I have learnt the following
-### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
@@ -196,7 +193,7 @@ To reflect upon the learning process this semester,
 
 ### What have I learnt this week?
 Through accurate reflection of content through this week, I have learnt the following
-### What do I 'now know' that I did not before?
+
 To reflect upon the learning process this semester, 
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
@@ -206,13 +203,13 @@ To reflect upon the learning process this semester,
 
 ### What would I do better next time and with what anticipated results?
 To reflect upon the learning process this semester, 
-### What theory proved to be useful and why? What have I learnt from this?
+
 
 ## Week 12
 
 ### What have I learnt this week?
 Through accurate reflection of content through this week, I have learnt the following
-### What do I 'now know' that I did not before?
+
 
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
@@ -222,7 +219,7 @@ To reflect upon the learning process this semester,
 
 ### What would I do better next time and with what anticipated results?
  To reflect upon the learning process this semester, 
-### What theory proved to be useful and why? What have I learnt from this?
+
 
 
 
