@@ -94,7 +94,7 @@ Upon reflection of the week 5 recorded tutorial, an abundance of learning and fa
 ### What do I 'now know' that I did not before?
 Reflecting upon week 5s tutorial and zoom recording, it is evident that I have understood complex systems through a broader perspective opening my mind to the new ideas and concepts of human centred systems. Upon reflection from class discussion, I now know about self organised criticality and its importance 
 ### What insights have I gained?
-Upon reflection, it is clear to visualise the key insights of human centred complex systems throughout the tutorial
+Upon reflection, it is clear to visualise the key insights of human centred complex systems throughout the tutorial I have gained insights about the many model thinking assignments which I was allocated to do the stakeholder. Finding out about the stakeholders in the social media platforms and creating a rihc picture based on my finding was quite interesting as I utilised a diagram software called draw.io.
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 Throughout reflecting weekly upon these GitHub entries, I have noticed an increase in memory recall for certain topics discussed in previous classes. The strength I have gained would be being able to remember concepts that were taught and discussed weeks ago. However, after reflecting upon my attendance and weekly engagement in online activities I have noticed a decrease in knowledge gained weekly as per usual. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
