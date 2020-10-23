@@ -116,15 +116,15 @@ Upon reflection of week 6, it is evident that throughout the week I have gained 
 * The Markov medel
 
 ### What do I 'now know' that I did not before?
-Upon reflection of week 6 online recordings and modules posted on canvas, I have gained valuable insight in the application of real life concepts in modelling frameworks. Furthermore, the 
+Upon reflection of week 6 online recordings and modules posted on canvas, I have gained valuable insight in the application of real life concepts in modelling frameworks. Furthermore, the random walks model was explained very well including all of the models fine details allowing me to understand the model to a higher standard.
 ### What insights have I gained?
-
+Upon reflection of week 6 onlince recording and lecture, it was evident that I have gained a succesful insight on the ideology of broadcast, diffusion and contagion. Furthermore, I have gained insight about the Bass model which which combines the two diffusion and broadcast models into one which I found very intersting in this part of the semester. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+Upon reflecting, my key strengths and weakness vary from week to week. I have gained a strong understanding of the subject structure and weekly input required to succeed in this subject. However, my weakness has to do with my weekly attendance and weekly tutorial engagement. I belive I need to work on being more engaged in class activities and have more conversations with group members.
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon reflection of grouo activities and collaboration, it was evident that we carefully constructed and assigned assignment roles to individuals effecitvely and equally. The group leader was assigned o Evan Hunter as he took the lead in all conversations and ensured everyone knew what they are doing at all times. From peer review, Evan has been a great mentor and group leader for our assignments as he always reminding the group about deadlines and sections of assignments to do. 
 ### What would I do better next time and with what anticipated results?
- 
+Upon reflecting of week 6 tutroials and lecture notes, it was evident that I need more class engagement in activities and excecises. Working 40 hours a week has been a constant struggle to keep up to date with tasks and class material. However, with the help of weekly github submissions and weekly lecture recordings I was able to slowly catch up to incomplete tasks. 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 ## Week 7
