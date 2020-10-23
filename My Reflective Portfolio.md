@@ -205,17 +205,16 @@ To reflect upon the learning process this semester,
 ## Week 12
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
-
+Through accurate reflection of content through this whole semester I have learnt various models and the way github works and also Python language. These basic knowledge can be utilised furhter throughout my career which is why im grsateful for choosing such a complex subject that offers valuable knowledge for all members that engage. This semester has been rough with several fluctuations of lockdown due to the corona virus. However, it has been a journey that not only brought me new knowledge, but was also able to make meaningful friendships with my peer group members. 
 
 ### What insights have I gained?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, the subject is very complex in the way social interactions can be modelled in specific ways to convey meaning. The semester gave me bright insights intot eh real life scenarios that can be applied and understood through models. Not only giving me the opportunity to see the world through a many model thinking perspective, but also allowing me to use these models in life scenarios to help with a better outcome.
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, my precieved strengths would be the long term effort and never giving up on assignment due dates. By keeping up to date with my github weekly entries I was able to find success throughout this subject. Furthermore, my weaknesses as explained hroughout the whole report/ entry would be time management. Accross the whole semester I have gained valuable knowledge about how to handle university assignemnts with working 40 hours a week at Amazon. This gave me not only time management skills, but long term hustling life skills that I can cherish. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Upon reflection, my team thorughout this whole semester has been great. With the expertise of Evan, a third year student helping out all the group members as the team leader has allowed me to realise the potential a fist year student has in many model thinking. 
 ### What would I do better next time and with what anticipated results?
- To reflect upon the learning process this semester, 
+ To reflect upon the learning process this semester, to do better next time I would definately spend more time in class asking various questions and online engagement for all tutorials. This would keep me updated and have a even larger understanding of the many model thinking and human centred complex systems subject overall. It has been a wonderful journey and a valuable one. 
 
 
 
