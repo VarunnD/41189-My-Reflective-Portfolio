@@ -157,9 +157,9 @@ To reflect upon the learning process this semester, my strengths would include t
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 To reflect upon the learning process this semester, the GitHub and jupyter notebook setting it up was rather challenging as I didnt know there was a tutorial posted on canvas until the next week. However, luckily my team members from my group 'emergence' helped me set it up correctly and taught me the right way to make commits towards the master branch. 
 ### What would I do better next time and with what anticipated results?
- 
+Thorughout this semester, I have an ongoing challenge with attendance and correct communication between group members, however to do better next time I would suggest myself to keep up with weeekly notifications recieved from Juan and other emails sent out. This would in turn keep me updated and have a learning mindset before every tutorial thorughout the weeks.
 ### What theory proved to be useful and why? What have I learnt from this?
-
+Reflecting from all the models presented thorughout the week 8 lecture notes, it is evident that the COlonel Blottos Model stood out from the rest as it has a game perspective and stratic importance in terms of winning challenges. I found this very interesting throughout the week. 
 ## Week 9
 
 ### What have I learnt this week?
