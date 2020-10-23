@@ -191,15 +191,13 @@ Upon reflecting from this semester I have encountered various challenges in term
 ## Week 11
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
-
-To reflect upon the learning process this semester, 
+Through accurate reflection of content through this week, I have learnt the system dynamics modelling and the application of this model towards the idea of social media platform growth. To aid me in this understanding I had help from my team members which allowed me to ask questions and gather feeedback for the assignemnt. This was a very helpful experience as I was able to manage my workload with theirs and produce a meaningful assignment.  
 ### What insights have I gained?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, the isnights I have gained this week are not that major as this week I was busy doing other assignments and didnt have time for the Human Centred COmplex systems assignment. Therefore, I have not gained any new insights however, the group had made some progress which I checked over the weekend.
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+Upon reflection within this week I have many weaknesses in managing time between different subjects and finding enough time to complete these tasks whilst sumultaneasuly being engaged with work. Working 40 hours a week has proved to me that getting assignments done is possible however, requires a major effort and zero procrastination. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Reflectin upon team challenges, it is evident that time management with the groups schedule and your own is significantly difficult. Therefore, Evan, Chris, Benjamin and I decided to create a metting this weekend. The meeting was focused on setting up jupyter for those that havent already and to talk about the progress needed to completet the many model thinking assignment. 
 ### What would I do better next time and with what anticipated results?
 To reflect upon the learning process this semester, 
 
