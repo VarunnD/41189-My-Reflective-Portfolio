@@ -132,11 +132,11 @@ Upon reflecting of week 6 tutroials and lecture notes, it was evident that I nee
 ### What have I learnt this week?
 
 ### What do I 'now know' that I did not before?
-
+To reflect upon the learning process this semester, 
 ### What insights have I gained?
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+To reflect upon the learning process this semester, 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 Upon Reflection, my team handles claims 
 ### What would I do better next time and with what anticipated results?
@@ -152,9 +152,9 @@ Upon Reflection, my team handles claims
 ### What insights have I gained?
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+To reflect upon the learning process this semester, 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+To reflect upon the learning process this semester, 
 ### What would I do better next time and with what anticipated results?
  
 ### What theory proved to be useful and why? What have I learnt from this?
@@ -166,15 +166,15 @@ Upon Reflection, my team handles claims
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
-
+To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+To reflect upon the learning process this semester, 
 ### What would I do better next time and with what anticipated results?
  
 ### What theory proved to be useful and why? What have I learnt from this?
-
+To reflect upon the learning process this semester, 
 ## Week 10
 
 ### What have I learnt this week?
@@ -182,45 +182,45 @@ Upon Reflection, my team handles claims
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
-
+To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 ### What would I do better next time and with what anticipated results?
- 
+ To reflect upon the learning process this semester, 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 ## Week 11
 
 ### What have I learnt this week?
-
+To reflect upon the learning process this semester, 
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
-
+To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 ### What would I do better next time and with what anticipated results?
- 
+To reflect upon the learning process this semester, 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 ## Week 12
 
 ### What have I learnt this week?
-
+To reflect upon the learning process this semester, 
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+To reflect upon the learning process this semester, 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 ### What would I do better next time and with what anticipated results?
- 
+ To reflect upon the learning process this semester, 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 
