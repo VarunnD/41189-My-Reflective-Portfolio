@@ -130,11 +130,11 @@ Upon reflecting of week 6 tutroials and lecture notes, it was evident that I nee
 ## Week 7
 
 ### What have I learnt this week?
-
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
 To reflect upon the learning process this semester, 
 ### What insights have I gained?
-
+Through accurate reflection of content through this week, I have learnt the following
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 To reflect upon the learning process this semester, 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
@@ -146,7 +146,7 @@ Upon Reflection, my team handles claims
 ## Week 8
 
 ### What have I learnt this week?
-
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
@@ -162,7 +162,7 @@ To reflect upon the learning process this semester,
 ## Week 9
 
 ### What have I learnt this week?
-
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
@@ -178,7 +178,7 @@ To reflect upon the learning process this semester,
 ## Week 10
 
 ### What have I learnt this week?
-
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
@@ -194,9 +194,9 @@ To reflect upon the learning process this semester,
 ## Week 11
 
 ### What have I learnt this week?
-To reflect upon the learning process this semester, 
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
-
+To reflect upon the learning process this semester, 
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
@@ -210,11 +210,11 @@ To reflect upon the learning process this semester,
 ## Week 12
 
 ### What have I learnt this week?
-To reflect upon the learning process this semester, 
+Through accurate reflection of content through this week, I have learnt the following
 ### What do I 'now know' that I did not before?
 
 ### What insights have I gained?
-
+To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 To reflect upon the learning process this semester, 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
