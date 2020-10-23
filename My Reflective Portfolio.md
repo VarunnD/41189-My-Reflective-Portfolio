@@ -163,24 +163,24 @@ Reflecting from all the models presented thorughout the week 8 lecture notes, it
 ## Week 9
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
+Upon reflection, this week has been drastically different compared to the other 8 weeks, as this week there is no content to learn. However the weeks are for the group assignment progress.
 
 ### What insights have I gained?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, I have gained valuable knowledge on how to effectively use github and jupyter notebook to submit a github repository. I have gained insights about the way commits work in a group centred project on github. Furthermore, I have gained valuable insights throughout the semester of many model thinking approach towards real life scenarios. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+Upon reflecting this semester it is evident that the strengths and weaknesses are directly corelated with effort and engagement throughout the tutorial and classes this semester. I have learnt that the challenges within this subject have a heavy toll when not engaging fully into classes and groupwork activities. I learnt that it is crucial to keep up to date with the group work and have effective communication when it comes to creating a github file for the group. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, the challenges my team observed for the pre submission was the code for the github repository was not working. The file had some sort of coding error due to the fact someone in our group had changed the code for the file, therefore to resolve this issue Benjamin, Evan and I decided to revert the file tot the last saved/ commit. 
 ### What would I do better next time and with what anticipated results?
- 
+With anticipated results to do better next time it is crucial to have effective communication when doing groupwork activities especially on a new software that is a new concept to most of the members in the group. 
 
 ## Week 10
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
+This week had no new content, however, upon reflecting from other weeks and week 9 I have become more confident with my skills when utilising jupyter notebooks and the github repositiories. I have learnt an amatuer understanding of the main coponents needed to submit/ make commits in the file and the reason the assignment is based on a github file. 
 
 ### What insights have I gained?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, I have gained various 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 1
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
