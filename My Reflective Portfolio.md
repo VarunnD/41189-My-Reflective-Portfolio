@@ -147,15 +147,15 @@ Throughout this week, I have learnt many componenets and models however, one of 
 ## Week 8
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
+Through accurate reflection of content through this week, I have learnt about the applications of colonel blotto model and the prisoner dillema model which directly relate to a game strategy of winning. I found this very interesting the fact that models can be applied to the way one wins or loses a game. Furthermore, this week was the week of presubmission for the GitHub assignment. My group and I spent a lot of time collaborating on microsoft teams, however, mainly through facebook messenger where we asked questions and collaborated for effective groupwork.
 ### What do I 'now know' that I did not before?
-
+Upon reflection, I now know that models can be applied to the strategic approach of games etc. The Colonel Blotto Model an the Prisoner Dillema model was a new and interesting ideology for me. Furhtermore, I enjoyed the lecture notes through the pictures and diagrams highlighting and presenting the model.
 ### What insights have I gained?
-
+Upon reflection of the process this semester, i have gained several insights towards the GitHub python markdown. I have gained valuable knowledge of how to utilise Jupiter notebooks and python in order to create the pre submission file. Python and GitHub is a new software/ language to me therefore, it was a major learning curve throughout the subject and semester of Human Centred Complex systems. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, my strengths would include the communication I had between my team members and associates. However the weakness would include the learning process of jupiter notebooks and setting up/ using the team github repository. Making commits to the master branch was challenging as I found out I was using the wrong software.
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, the GitHub and jupyter notebook setting it up was rather challenging as I didnt know there was a tutorial posted on canvas until the next week. However, luckily my team members from my group 'emergence' helped me set it up correctly and taught me the right way to make commits towards the master branch. 
 ### What would I do better next time and with what anticipated results?
  
 ### What theory proved to be useful and why? What have I learnt from this?
@@ -185,7 +185,7 @@ Through accurate reflection of content through this week, I have learnt the foll
 ### What insights have I gained?
 To reflect upon the learning process this semester, 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-
+1
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 ### What would I do better next time and with what anticipated results?
