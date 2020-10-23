@@ -130,19 +130,20 @@ Upon reflecting of week 6 tutroials and lecture notes, it was evident that I nee
 ## Week 7
 
 ### What have I learnt this week?
-Through accurate reflection of content through this week, I have learnt the following
+Through accurate reflection of content through this week, I have learnt the seggregation and peer effects, schellings segregation model and how to measure segragation in particular. Granovetter's model has proven to be very interesting thorughout the lecture notes as I have learnt a new perspective in the way people follow other peoples actions. 
+Furthermore, I have gained an understanding of the standing ovation model, coordanation and culture and lastly the replicator model which was focused on in our GitHub assignment. 
 ### What do I 'now know' that I did not before?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, I have a great understanding of the standing ovation model and schellings segregation model. It was interesting to gain a deeper view and perspective through learning such models as they can change the way you think of certain aspects of social interaction. Furthermore, I have gained interest in the replicator model which was heavily focused on for the group assignment. 
 ### What insights have I gained?
-Through accurate reflection of content through this week, I have learnt the following
+Through accurate reflection of content through this week, I have gained interesting insights about Granovetter's model and the replicator dynamics of the replicator model. Throughout the week the replicator dynamics model proved to be interesting as it consists of 3 main components such as Psychology, Ecology and Economics. Furthermore the replicator equation proved to be useful in the assignment where Evan suggested to utilise this to highlight societies growth of social media platforms. 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-To reflect upon the learning process this semester, 
+To reflect upon the learning process this semester, the definitative weakness as discussed as before would be the online class engagement due to working. However, the strengths I have percieved includes being able to read and understand the lecture notes to a great extent. The notes are designed in a way which is fun to read and learn. The lecture notes are proven to be useful in explaining the main coponenets of model whilst maintaining the structural intergrity of the script. The utilisation of pictures have made it a fun experience to learn and grasp onto new concepts. 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-Upon Reflection, my team handles claims 
+Upon Reflection, my team has had the challenge of collaboration through github. As no one can see the progress of ones work until it is commited to the master branch. This left the group confused on who has done progress throughout the assignment. However, this is a new concept and software I have been using, therefore I have successfully adapted tot he new concepts and changes within the assignment details and utilising github to its fullest potential. 
 ### What would I do better next time and with what anticipated results?
- 
+ From reflecting upon my weaknesses and disadvantages, to improve on these and to get better results and feedback would be to email and message more group member about any concerns or questions I have. This in turn would create a more collaborative environment for all users and increase my online engagement in activities.
 ### What theory proved to be useful and why? What have I learnt from this?
-
+Throughout this week, I have learnt many componenets and models however, one of those models proved to be the most interesting and relevant towards the assignment. Therefore the theory of the replicator dynamics model proved to be useful throughout the assignment as it is utilised to measure and explore the social media growth throughout ita platforms. 
 ## Week 8
 
 ### What have I learnt this week?
